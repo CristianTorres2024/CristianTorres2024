@@ -5,7 +5,7 @@ Soy un programador junior con interés en el desarrollo web. Cuento con más de 
 ## ✨ Acerca de mí
 
 - **Tecnologías principales:** PHP, MySQL, Javascript, HTML, CSS
-- **Intereses:** UX/UI, Fullstack
+- **Intereses:** Fullstack
 
 ### Lenguajes y herramientas:
 - **Lenguajes:** PHP, MYSQL, HTML

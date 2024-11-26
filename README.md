@@ -11,6 +11,6 @@ Soy un programador junior con interés en el desarrollo web. Cuento con más de 
 - **Lenguajes:** PHP, MYSQL, HTML
 - **Herramientas:** Git
 
-## 🌐 Conéctate conmigo
+## 🌐 Contáctame
 - **Correo:** [torrescristian661@gmail.com](mailto:torrescristian661@gmail.com)
 - **LinkedIn:** https://www.linkedin.com/in/cristian-torres-3aab782b9/
